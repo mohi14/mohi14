@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mohi14/)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohiuddin.14k)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
+[<p align="center"> <img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mohi14/)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohiuddin.14k)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
 
@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🌱 I’m exploring - TypeScript. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 💬 Ask me about  - ReactJS. 
+### 📫 How to reach me - mohiuddinkhan1409@gmail.com.
 
 
 <br />
