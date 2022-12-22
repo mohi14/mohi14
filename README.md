@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center"> [<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mohi14/)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohiuddin.14k)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png">](https://twitter.com)</p>
+<p align="center"> <img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">(https://www.linkedin.com/in/mohi14/)
+  <img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">(https://www.facebook.com/mohiuddin.14k)
+  <img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png">(https://twitter.com)
+</p>
 
 <br />
 
