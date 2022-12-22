@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mohi14/)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohiuddin.14k)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com)
 
 <br />
 
@@ -50,12 +50,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/mohi14/mohi14/blob/main/images/icons/express.png"/>
 </p><br/>
 
-<!-- ## :book: My recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng) -->
-<!-- BLOG-POST-LIST:END -->
 
 
 ## :chart_with_upwards_trend: Current Stats
