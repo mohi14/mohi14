@@ -1,4 +1,4 @@
-# 👋 Yo, I'm [Your Name]
+# 👋 Yo, I'm Mohiuddin
 
 I do **code stuff**.
 Sometimes it compiles. Sometimes it doesn't. 
