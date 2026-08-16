@@ -5,12 +5,9 @@ Sometimes it compiles. Sometimes it doesn't.
 We don't talk about the second one.
 
 📍 Currently: Surviving  
-🧪 Currently learning: Patience (and TypeScript)  
+🧪 Currently learning: Patience (and Python 🐍)  
 🤝 Open to: Pull requests, memes, and snack suggestions  
 
-📫 Find me: [Twitter](link) • [LinkedIn](link) • [My cat's IG](link)
-
-![stats](https://github-readme-stats.vercel.app/api?username=mohi14&show_icons=true&theme=radical)
 
 
 ## :chart_with_upwards_trend: Current Stats
