@@ -1,54 +1,16 @@
-# Hi there 👋
+# 👋 Yo, I'm [Your Name]
 
-<!--
-**mohi14/mohi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do **code stuff**.
+Sometimes it compiles. Sometimes it doesn't. 
+We don't talk about the second one.
 
-Here are some ideas to get you started:
+📍 Currently: Surviving  
+🧪 Currently learning: Patience (and TypeScript)  
+🤝 Open to: Pull requests, memes, and snack suggestions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Find me: [Twitter](link) • [LinkedIn](link) • [My cat's IG](link)
 
-
-## :mailbox: Reach me out
-
-<br />
-
-[<p align="center"> <img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Twitter.png"> ](https://twitter.com)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mohiuddin.14k)[<img height="75" src="https://github.com/mohi14/mohi14/blob/main/images/icons/Linkedin.png"> </p>](https://www.linkedin.com/in/mohi14/)
-
-<br />
-
-## :eyes: Current overview
-
-<div align="left">
-
-### 🌱 I’m exploring - TypeScript. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 💬 Ask me about  - ReactJS. 
-### 📫 How to reach me - mohiuddinkhan1409@gmail.com
-
-
-<br />
-
-## :computer: Technologies that I know
-<br>
-<p align="center">
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mohi14/mohi14/blob/main/images/icons/express.png"/>
-</p><br/>
-
+![stats](https://github-readme-stats.vercel.app/api?username=mohi14&show_icons=true&theme=radical)
 
 
 ## :chart_with_upwards_trend: Current Stats
